@@ -1,0 +1,10 @@
+Plugins\Marketplace\UnrealMetaXRPlugin.71.0\MetaXR\Source\OculusXRHMD\OculusMobile_APL.xml
+Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
+Plugins\Online\Android\OnlineSubsystemGooglePlay\Source\OnlineSubsystemGooglePlay_UPL.xml
+Plugins\Runtime\AndroidFileServer\Source\AndroidFileServer\AndroidFileServer_UPL.xml
+Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMessaging_UPL.xml
+Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
+Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+Source\ThirdParty\Oculus\OculusOpenXRLoader\OculusOpenXRLoader/OculusOpenXRLoader_APL.xml
+C:\Program Files\Epic Games\UE_5.4\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.71.0\MetaXR\Source\Thirdparty\MRUtilityKitShared\MRUtilityKit_APL.xml
+Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
