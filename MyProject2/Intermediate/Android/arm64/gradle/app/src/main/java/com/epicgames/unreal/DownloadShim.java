@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.pedro.game.OBBDownloaderService;
-import com.pedro.game.DownloaderActivity;
+import com.pjca3.PaintSchool.OBBDownloaderService;
+import com.pjca3.PaintSchool.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.pedro.game.OBBData;
+import com.pjca3.PaintSchool.OBBData;
 
 
 public class DownloadShim
