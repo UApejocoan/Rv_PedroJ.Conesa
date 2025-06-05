@@ -74,7 +74,7 @@
     </receiver>
     <meta-data android:name="android.max_aspect" android:value="2.10" />
     <meta-data android:name="com.oculus.extlib" android:value="true" />
-    <meta-data android:name="com.oculus.supportedDevices" android:value="quest|quest2|questpro|quest3|quest2" />
+    <meta-data android:name="com.oculus.supportedDevices" android:value="quest|quest2|questpro|quest3|quest2|quest3" />
     <meta-data android:name="com.oculus.ossplash.background" android:value="black" />
     <meta-data android:name="com.oculus.ossplash.colorspace" android:value="!P3" />
     <meta-data android:name="com.oculus.telemetry.project_guid" android:value="C1E5C24643669842E4D1C8B02123B6A1" />

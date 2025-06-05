@@ -6,7 +6,7 @@ SDKVersion=android-33
 bForDistribution=False
 bMakeSeparateApks=True
 bPackageDataInsideApk=False
-bDisableVerifyOBBOnStartUp=False
+bDisableVerifyOBBOnStartUp=True
 bUseExternalFilesDir=False
 UPLHashCode=5f8781698530f7aa06a0cd7fc3db090c
 TemplatesHashCode=0a7eae761b431d2b6ae99d8474250f3a
@@ -80,11 +80,12 @@ bAllowResizing=false
 bSupportSizeChanges=false
 ExtraApplicationSettings=<meta-data android:name="com.oculus.supportedDevices" android:value="quest|quest2|questpro|quest3" />
 bPackageForMetaQuest=True
+bDisableVerifyOBBOnStartUp=True
 SDKPath=(Path="C:/Users/pejoc/AppData/Local/Android/Sdk")
 NDKPath=(Path="C:/Users/pejoc/AppData/Local/Android/Sdk/ndk/25.1.8937393")
 JavaPath=(Path="C:/Program Files/Java/jdk-11")
 Arch=arm64
-GameDefaultMap=/Game/Nivel1.Nivel1
+GameDefaultMap=/Game/Lv_NivelPrincipal.Lv_NivelPrincipal
 GlobalDefaultGameMode=/Script/Engine.GameModeBase
 /Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bEnablePlugin=True
 /Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bAllowNetworkConnection=True
