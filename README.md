@@ -4,7 +4,7 @@
 
 En esta experiencia de realidad virtual podrás explorar una clase escolar y acercarte a la pizarra para **pintarla por completo antes de que llegue la profesora y se acabe el tiempo**.
 
-¡Ponte las gafas, entra en escena y da rienda suelta a tu creatividad!
+El enlace al juego esta abajo para entrar al Drive
 
 ---
 
@@ -55,7 +55,7 @@ Me gustaría implementar:
 
 Estoy contento con el resultado final, teniendo en cuenta el tiempo y los retos superados.  
 Y aunque no sea un juego con una hoguera ardiendo... (AUNQUE ALGUNA REFERENCIA HAY EN ALGUNA PARTE)
-Archivos: https://drive.google.com/drive/folders/1dhhJcqt5qwayHgF_IWFQa8p4SXXtwfKZ?usp=drive_link
+Archivos (usar este para la correción): https://drive.google.com/drive/folders/1dhhJcqt5qwayHgF_IWFQa8p4SXXtwfKZ?usp=drive_link
 
 > 🔥 Soy de la **Hoguera Alfonso el Sabio**, así que del 19 al 24 de junio, al lado de la mascletà, está mi racó.  
 > ¡Estas invitada a la mascletà y la hoguera! 🎆
