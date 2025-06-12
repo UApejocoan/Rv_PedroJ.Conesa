@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:installLocation="internalOnly" android:versionCode="1" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:installLocation="internalOnly" android:versionCode="101" android:versionName="0.0.1-b1">
   <queries>
     <intent>
       <action android:name="android.intent.action.VIEW" />
@@ -27,7 +27,7 @@
     <meta-data android:name="com.epicgames.unreal.GameActivity.EngineBranch" android:value="++UE5+Release-5.4" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.ProjectVersion" android:value="1.0.0.0" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.DepthBufferPreference" android:value="0" />
-    <meta-data android:name="com.epicgames.unreal.GameActivity.bPackageDataInsideApk" android:value="false" />
+    <meta-data android:name="com.epicgames.unreal.GameActivity.bPackageDataInsideApk" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bShouldHideUI" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.ProjectName" android:value="MyProject2" />
@@ -74,7 +74,7 @@
     </receiver>
     <meta-data android:name="android.max_aspect" android:value="2.10" />
     <meta-data android:name="com.oculus.extlib" android:value="true" />
-    <meta-data android:name="com.oculus.supportedDevices" android:value="quest|quest2|questpro|quest3|quest2|quest3" />
+    <meta-data android:name="com.oculus.supportedDevices" android:value="quest|quest2|questpro|quest3|quest2|questpro|quest3" />
     <meta-data android:name="com.oculus.ossplash.background" android:value="black" />
     <meta-data android:name="com.oculus.ossplash.colorspace" android:value="!P3" />
     <meta-data android:name="com.oculus.telemetry.project_guid" android:value="C1E5C24643669842E4D1C8B02123B6A1" />

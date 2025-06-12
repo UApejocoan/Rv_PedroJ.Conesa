@@ -4657,44 +4657,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/XR/XRVisualization/XRVisualization.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "XRVisualization",
-				"Description": "Visualization Library for XR HMDs and controllers",
-				"Category": "Mixed Reality",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "https://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"IsExperimentalVersion": true,
-				"Modules": [
-					{
-						"Name": "XRVisualization",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "XRBase",
-						"Enabled": true
-					},
-					{
-						"Name": "ProceduralMeshComponent",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Tests/InterchangeTests/InterchangeTests.uplugin",
 			"Descriptor": 
 			{
